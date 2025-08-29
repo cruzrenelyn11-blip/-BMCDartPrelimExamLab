@@ -62,4 +62,3 @@ if (finalGrade >= passingGrade) {
 }
 
 
-\
